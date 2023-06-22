@@ -1,1 +1,1 @@
-flappyBirdGame_Java
+Java - Flappy Bird Game
